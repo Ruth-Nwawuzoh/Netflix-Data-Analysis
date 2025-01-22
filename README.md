@@ -14,6 +14,8 @@ This project involves analyzing Netflix data to gain insights into the most-watc
 6. **R Integration**: Visualized the ratings distribution using R's ggplot2 library.
 
 ## Tools and Libraries Used
+- Clone this repository to your local machine or download and unzip the zipped file
+  
 ### Python:
 - `pandas` for data manipulation.
 - `matplotlib` and `seaborn` for data visualization.
